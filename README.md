@@ -10,8 +10,11 @@
 
 <!-- Estadísticas y Snake -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelCrrty&show_icons=true&theme=dark&locale=en&layout=compact" alt="RafaelCrrty" /></p>
+<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+  <br>
+  <p align="center">
+    My GitHub Stats <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelCrrty&show_icons=true&theme=dark&locale=en&layout=compact" alt="RafaelCrrty" /></p>
 </div>
 
 <!-- Tecnologías que conozco -->
