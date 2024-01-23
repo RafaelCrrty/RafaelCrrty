@@ -19,6 +19,11 @@
        alt="snake" /></a>
 </div>
 
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
