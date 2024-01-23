@@ -1,4 +1,14 @@
 ### Hi there 👋
+<details>
+  <summary>Click para mostrar contenido HTML</summary>
+
+  <div style="display: none;">
+
+    <!-- Tu código HTML va aquí -->
+    <p>Hola, este es un contenido HTML oculto.</p>
+
+  </div>
+</details>
 
 <!--
 **RafaelCrrty/RafaelCrrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
