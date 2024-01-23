@@ -8,9 +8,9 @@
   </a>
 </div>
 
-<!-- Estadísticas -->
+<!-- Snake -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelCrrty&show_icons=true&theme=dark&locale=en" alt="RafaelCrrty" />
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
 </div>
 
 <!-- Tecnologías que conozco -->
@@ -21,12 +21,13 @@
   </a>
 </div>
 
+<!-- Estadísticas -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelCrrty&show_icons=true&theme=dark&locale=en" alt="RafaelCrrty" />
+</div>
+
 <!-- Estadísticas de lenguajes -->
 <div align="center">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelCrrty&show_icons=true&theme=dark&locale=en&layout=compact" alt="RafaelCrrty" /></p>
 </div>
 
-<!-- Snake -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-</div>
