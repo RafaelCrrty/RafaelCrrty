@@ -10,6 +10,8 @@
   </div>
 </details>
 
+[![Badge](https://img.shields.io/badge/-Tecnologia-important)](enlace_a_tu_tecnologia)
+
 <!--
 **RafaelCrrty/RafaelCrrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
