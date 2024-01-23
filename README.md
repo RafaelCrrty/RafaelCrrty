@@ -8,10 +8,9 @@
   </a>
 </div>
 
-<!-- Estadísticas y Snake -->
+<!-- Estadísticas -->
 <div align="center">
-<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelCrrty&show_icons=true&theme=dark&locale=en" alt="RafaelCrrty" />
 </div>
 
 <!-- Tecnologías que conozco -->
@@ -22,7 +21,12 @@
   </a>
 </div>
 
-<div aling="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<!-- Estadísticas de lenguajes -->
+<div align="center">
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelCrrty&show_icons=true&theme=dark&locale=en&layout=compact" alt="RafaelCrrty" /></p>
+</div>
+
+<!-- Snake -->
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
 </div>
